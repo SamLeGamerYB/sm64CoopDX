@@ -16,4 +16,5 @@ It's *Boring* what about having a mod loader with...
 
 **And more...**
 
+##### (Inspired by [Curseforge](https://www.curseforge.com/))
 ###### This mod luncher is a third-party application and it's not affiliate or have anything to do with [sm64coopdx's Team](https://github.com/coop-deluxe), so if you are a member of the team, i can take this down at anytime

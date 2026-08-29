@@ -15,6 +15,8 @@ It's *Boring* what about having a mod loader with...
 - Auto update the luncher and sm64coopdx when avalable
 
 **And more...**  
+
+Taking the mods from https://mods.sm64coopdx.com/ ~~and https://gamebanana.com~~ (Not Avalable Yet)  
 This app is 100% FREE and AD-FREE
 
 ##### (Inspired by [Curseforge](https://www.curseforge.com/))

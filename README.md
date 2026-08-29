@@ -1,6 +1,6 @@
 # sm64coopdx Mod luncher
 
-> This is a beta project, so there is a lots of bugs. If you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new) to report :D
+> This is a beta project, so there is a lots of bugs. If you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new) to report the bug :D
 
 **This application is a mod luncher for [Super Mario 64 Co-op Deluxe](https://sm64coopdx.com/)**
 
@@ -14,7 +14,8 @@ It's *Boring* what about having a mod loader with...
 - Lunch the game from the luncher
 - Auto update the luncher and sm64coopdx when avalable
 
-**And more...**
+**And more...**  
+This app is 100% FREE and AD-FREE
 
 ##### (Inspired by [Curseforge](https://www.curseforge.com/))
 ###### This mod luncher is a third-party application and it's not affiliate or have anything to do with [sm64coopdx's Team](https://github.com/coop-deluxe), so if you are a member of the team, i can take this down at anytime. Just create an issue.

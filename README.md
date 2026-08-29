@@ -19,5 +19,8 @@ It's *Boring* what about having a mod loader with...
 Taking the mods from https://mods.sm64coopdx.com/ ~~and https://gamebanana.com~~ (Not Avalable Yet)  
 This app is 100% FREE and AD-FREE
 
+#### Want custom themes ?
+[Check this out](https://github.com/SamLeGamerYB/sm64CoopDX-themes)
+
 ##### (Inspired by [Curseforge](https://www.curseforge.com/))
 ###### This mod luncher is a third-party application and it's not affiliate or have anything to do with [sm64coopdx's Team](https://github.com/coop-deluxe), so if you are a member of the team, i can take this down at anytime. Just create an issue.

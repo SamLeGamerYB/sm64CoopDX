@@ -1,6 +1,6 @@
 # sm64coopdx Mod luncher
 
-> This is a beta project, so there is a lots of bugs. If you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new) to report the bug :D
+> This is a beta project, so there is a lots of bugs. If you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new?labels=Bug) to report the bug :D
 
 **This application is a mod luncher for [Super Mario 64 Co-op Deluxe](https://sm64coopdx.com/)**
 
@@ -18,6 +18,14 @@ It's *Boring* what about having a mod loader with...
 
 Taking the mods from https://mods.sm64coopdx.com/ ~~and https://gamebanana.com~~ (Not Avalable Yet)  
 This app is 100% FREE and AD-FREE
+
+## F.A.Q.  
+  
+**Will there be more ports?**  
+\- Yes there will be an Android port, but any Apple product (MacOS, iPhone...) and SteamOS will not be avalable / made by me. If someone wants to code one port, the person will make a fork and i will put it my README.  
+
+**Will this be free forever?**  
+\- Of course! Im not making money just by creating a modding software that will just read the site or the API. But you can always donate if you want.
 
 #### Want custom themes ?
 [Check this out](https://github.com/SamLeGamerYB/sm64CoopDX-themes)

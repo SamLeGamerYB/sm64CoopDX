@@ -1,6 +1,6 @@
 # sm64coopdx Mod launcher
 
-![Static Badge](https://img.shields.io/badge/Build_with-Visual_Studio_Code-blue)
+[![Static Badge](https://img.shields.io/badge/Build_with-Visual_Studio_Code-blue)](https://code.visualstudio.com/)
 
 > This is a beta project, so there will be lots of bugs. if you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new?labels=Bug) to report the bug :D
 
@@ -36,6 +36,6 @@ This app is 100% FREE and AD-FREE
 [Check this out](https://github.com/SamLeGamerYB/sm64CoopDX-themes)
 
 ##### (Inspired by [Curseforge](https://www.curseforge.com/))
-###### If the device is damaged or broken after lunching the game (by my launcher or not), it is not my fault but CoopDX team's fault for letting a non-secure mod bypass their security. Im not responsible under any circumstances of damage, I’m only a relay.
+###### If the device used is damaged or broken after lunching the game (by my launcher or not), it is not my fault but CoopDX team's fault for letting a non-secure mod bypass their security. Im not responsible under any circumstances of damage, I’m only a relay.
 ###### Part of the UI made by AI Copilot (yeah im not proud)
 ###### This mod launcher is a third-party application and it's not affiliated or have anything related to [sm64coopdx's Team](https://github.com/coop-deluxe), so if you are a member of the team, i can take this down at anytime. Just create an issue.

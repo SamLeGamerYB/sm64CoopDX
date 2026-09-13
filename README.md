@@ -1,22 +1,23 @@
 # sm64coopdx Mod luncher
 
-> This is a beta project, so there is a lots of bugs. If you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new?labels=Bug) to report the bug :D
+> This is a beta project, so there is a lots of bugs. If you encounter any bug please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new?labels=Bug) to report the bug :D
 
 **This application is a mod luncher for [Super Mario 64 Co-op Deluxe](https://sm64coopdx.com/)**
 
 This is a project that i always wanted to make since i saw this SM64 modloader and multiplayer. Because it looks so fun. 
-But sadly if you want to know if there is an update to any mod you must check on the website then delete the old file, replace...
+But sadly if you want to know if there is an update to any mod you must turn notification on and check on the website then delete the old file, replace...
 
 It's *Boring* what about having a mod loader with...
 - Modpacks
 - Mod Updater
+- Download dependencies automatically
 - Customisable at 80%
 - Lunch the game from the luncher
 - Auto update the luncher and sm64coopdx when avalable
 
 **And more...**  
 
-Taking the mods from https://mods.sm64coopdx.com/ ~~and https://gamebanana.com~~ (Not Avalable Yet)  
+Taking the mods from `https://mods.sm64coopdx.com/`  
 This app is 100% FREE and AD-FREE
 
 ## F.A.Q.  
@@ -31,5 +32,6 @@ This app is 100% FREE and AD-FREE
 [Check this out](https://github.com/SamLeGamerYB/sm64CoopDX-themes)
 
 ##### (Inspired by [Curseforge](https://www.curseforge.com/))
-###### UI made by AI Copilot (yeah im not proud)
+###### If the device is endommaged or broken after lunching the game (by my luncher or not), it is not my fault but CoopDX team's fault for letting a non-secure mod bypass their security. Im not responsible on any circumstances of damage, im only a relay.
+###### Part of the UI made by AI Copilot (yeah im not proud)
 ###### This mod luncher is a third-party application and it's not affiliate or have anything related to [sm64coopdx's Team](https://github.com/coop-deluxe), so if you are a member of the team, i can take this down at anytime. Just create an issue.

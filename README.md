@@ -26,7 +26,7 @@ This app is 100% FREE and AD-FREE
 \- Yes there will be an Android port, but any Apple product (MacOS, iPhone...) and SteamOS will not be avalable / made by me. If someone wants to code one port, the person will make a fork and i will add it my README.  
 
 **Will this be free forever?**  
-\- Of course! I'm not making money just by creating a modding software that will just read the site or/and API. But you can always donate if you want. (Donate me)[https://ko-fi.com/sm64coopdxlauncher]
+\- Of course! I'm not making money just by creating a modding software that will just read the site or/and API. But you can always donate if you want. [Donate me](https://ko-fi.com/sm64coopdxlauncher)
 
 #### Want custom themes ?
 [Check this out](https://github.com/SamLeGamerYB/sm64CoopDX-themes)

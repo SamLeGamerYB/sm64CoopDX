@@ -1,5 +1,7 @@
 # sm64coopdx Mod launcher
 
+![Static Badge](https://img.shields.io/badge/Build_with-Visual_Studio_Code-blue)
+
 > This is a beta project, so there will be lots of bugs. if you encounter any bugs please [click here](https://github.com/SamLeGamerYB/sm64CoopDX/issues/new?labels=Bug) to report the bug :D
 
 **This application is a mod launcher for [Super Mario 64 Co-op Deluxe](https://sm64coopdx.com/)**

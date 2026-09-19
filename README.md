@@ -10,7 +10,7 @@ This is a project that i always wanted to make since i saw this SM64 modloader a
 But sadly if you want to know if there is an update to any mod you must turn on notifications and check on the website then delete the old file, replace...
 
 It's *boring* what about having a mod loader with...
-- Modpacks
+- Modpacks (By dev/friends only)
 - Mod Updater
 - Download dependencies automatically
 - 80% customisable
